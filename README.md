@@ -1,6 +1,7 @@
 # Home_Sales_Challenge
+#Note update to code is found in the starter code folder and in the starter code file
 
-The repository will house the requirements for the GWU course assignment, Module 20.
+The repository will house the requirements for the GWU course assignment, Module 22.
 
 Below are the details of the requirements:
 
